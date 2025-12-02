@@ -52,7 +52,6 @@ configurer le host dans /front/src/app/host.js
 `cd front`
 `npm run dev`
 
-
 ### Ou Lancer l'application côté server
 `cd front`
 `npm run build`
