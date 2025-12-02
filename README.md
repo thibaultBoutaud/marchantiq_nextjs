@@ -24,14 +24,14 @@ Un accès administrateur permet de créer des objets et des actualités
 
 ## Variables d'environnement:
 > Créer un fichier .env dans le directory à la racine.<br>
-> _DATABASE="DATA_BASE_NAME"
-> _USER="root"
-> _PASSWORD=""
-> PORT="3000"
-> _SECRET_KEY="CREATE_YOUR_SECRET_KEY"
-> MAGIC_WORD="CREATE_YOUR_MAGIC_WORD"
-> EMAIL_USER="EMAIL_USER"
-> EMAIL_PASSWORD="EMAIL_PASSWORD"
+> _DATABASE="DATA_BASE_NAME"<br>
+> _USER="root"<br>
+> _PASSWORD=""<br>
+> PORT="3000"<br>
+> _SECRET_KEY="CREATE_YOUR_SECRET_KEY"<br>
+> MAGIC_WORD="CREATE_YOUR_MAGIC_WORD"<br>
+> EMAIL_USER="EMAIL_USER"<br>
+> EMAIL_PASSWORD="EMAIL_PASSWORD"<br>
 
 ### Installer node.js
 
